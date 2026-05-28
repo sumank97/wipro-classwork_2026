@@ -1,0 +1,68 @@
+<<<<<<< HEAD
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.skj123</groupId>
+  <artifactId>EcommerceAutomationFramework</artifactId>
+=======
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.RestApi</groupId>
+  <artifactId>RestApi_Project</artifactId>
+>>>>>>> 1899fb0ffdb62cfa193c92ed29d396396222229f
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+
+    <dependency>
+<<<<<<< HEAD
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.21.0</version>
+    </dependency>
+=======
+        <groupId>io.rest-assured</groupId>
+        <artifactId>rest-assured</artifactId>
+        <version>5.5.0</version>
+    </dependency>
+    <dependency>
+    <groupId>com.aventstack</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>5.1.1</version> </dependency>
+>>>>>>> 1899fb0ffdb62cfa193c92ed29d396396222229f
+
+    <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+<<<<<<< HEAD
+        <version>7.10.2</version>
+        <scope>test</scope>
+    </dependency>
+
+    <dependency>
+        <groupId>io.github.bonigarcia</groupId>
+        <artifactId>webdrivermanager</artifactId>
+        <version>5.8.0</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-ooxml</artifactId>
+        <version>5.2.5</version>
+    </dependency>
+
+    <dependency>
+        <groupId>com.aventstack</groupId>
+        <artifactId>extentreports</artifactId>
+        <version>5.1.1</version>
+    </dependency>
+
+=======
+        <version>7.11.0</version>
+        <scope>test</scope>
+    </dependency>
+
+>>>>>>> 1899fb0ffdb62cfa193c92ed29d396396222229f
+</dependencies>
+</project>
