@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-25T17:57:15 IST" name="CRUDSuite" finished-at="2026-05-25T17:57:21 IST" duration-ms="5861">
+    <groups>
+    </groups>
+    <test started-at="2026-05-25T17:57:15 IST" name="CRUDTests" finished-at="2026-05-25T17:57:21 IST" duration-ms="5861">
+      <class name="Rest.UpdateUserTest">
+        <test-method signature="updateUser()[pri:0, instance:Rest.UpdateUserTest@799f10e1]" started-at="2026-05-25T17:57:20 IST" name="updateUser" finished-at="2026-05-25T17:57:20 IST" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+      </class> <!-- Rest.UpdateUserTest -->
+      <class name="Rest.DeleteUserTest">
+        <test-method signature="deleteUser()[pri:0, instance:Rest.DeleteUserTest@4c371370]" started-at="2026-05-25T17:57:20 IST" name="deleteUser" finished-at="2026-05-25T17:57:21 IST" duration-ms="517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+      </class> <!-- Rest.DeleteUserTest -->
+      <class name="Rest.GetUsersTest">
+        <test-method signature="getUsers()[pri:0, instance:Rest.GetUsersTest@18078bef]" started-at="2026-05-25T17:57:19 IST" name="getUsers" finished-at="2026-05-25T17:57:20 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+      </class> <!-- Rest.GetUsersTest -->
+      <class name="Rest.AddUserTest">
+        <test-method signature="addUser()[pri:0, instance:Rest.AddUserTest@409bf450]" started-at="2026-05-25T17:57:15 IST" name="addUser" finished-at="2026-05-25T17:57:19 IST" duration-ms="4169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUser -->
+      </class> <!-- Rest.AddUserTest -->
+    </test> <!-- CRUDTests -->
+  </suite> <!-- CRUDSuite -->
+</testng-results>
