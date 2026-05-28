@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="EcommerceSuite">
+
+    <test name="AutomationTests">
+
+        <classes>
+
+            <class name="testcases.LoginTest"/>
+            <class name="testcases.SearchTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
